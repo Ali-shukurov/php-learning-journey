@@ -8,4 +8,5 @@ Welcome to my personal PHP practice repository! This repo contains hands-on task
 php-learning-journey/
 ├── PHP1.php
 ├── PHP2.php
+├── PHP3.php
 └── README.md
