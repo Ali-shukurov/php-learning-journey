@@ -7,4 +7,5 @@ Welcome to my personal PHP practice repository! This repo contains hands-on task
 ```text
 php-learning-journey/
 ├── PHP1.php
+├── PHP2.php
 └── README.md
